@@ -1,3 +1,3 @@
 ## Linux IaC Project
 
-infrastructure as code: user structure, directories and permissions script.
+Script of "infrastructure as code": users, directories and permissions examples.
